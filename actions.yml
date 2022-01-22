@@ -1,0 +1,10 @@
+name: "Setup Pulumi CLI"
+description: "A composite action wrapper for Pulumi CLI setup in a GitHub Actions build environment"
+runs:
+  using: "composite"
+  steps:
+    - name: Install Pulumi CLI
+      uses: pulumi/action-install-pulumi-cli@v1.0.1
+
+
+
