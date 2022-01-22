@@ -4,7 +4,7 @@ runs:
   using: "composite"
   steps:
     - name: Install Pulumi CLI
-      uses: pulumi/action-install-pulumi-cli@v1.0.1
+      uses: pulumi/setup-pulumi@v2
 
 
 
