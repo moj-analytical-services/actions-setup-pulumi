@@ -1,2 +1,2 @@
 # actions-setup-pulumi
-About GitHub Actions install the Pulumi CLI but implemented via composite actions 
+ This Project is to install the Pulumi CLI but implemented via composite actions 
